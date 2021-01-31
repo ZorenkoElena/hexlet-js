@@ -1,3 +1,3 @@
 import _ from "lodash";
-console.log(_.last(['one', 'two']));
-1
+console.log(_.last(["one", "two"]));
+1;
